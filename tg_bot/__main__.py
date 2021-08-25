@@ -37,8 +37,8 @@ HELP_STRINGS = """
 Hello! my name *{}*.
 
 *Main* available commands:
- - /start: Start the bot...
- - /help: help....
+ - /start: Check If Am Alive
+ - /help: To see this Message..
  - /donate: To find out more about donating!
  - /settings:
    - in PM: To find out what SETTINGS you have set....
